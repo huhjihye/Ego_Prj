@@ -1,5 +1,5 @@
 package kopo.poly.util;
-
+//CmmUtil
 public class CmmUtil {
     public static String nvl(String str, String chg_str) {
         String res;
